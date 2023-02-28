@@ -1,8 +1,10 @@
 <h1> Startup Price Prediction in America </h1>
 
-<p> This project is the part of self learning on building an AI model to predict the profit of startup company based on some input features. </p>
+<p> This project is the part of self learning on building an AI model to predict the profit of startup company based on some input features and integrating the process with flask application. </p>
 
-<p> <img src="content/img/homepage.png" alt="image" style="zoom:50%;" /> </p>
+<h3> Demo </h3>
+
+https://user-images.githubusercontent.com/86224264/221760289-38c9b58b-83ca-4232-95b9-7709348b72d8.mp4
 
 <h3> Input Features </h3>
 
